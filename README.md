@@ -1,5 +1,3 @@
-<h2>Dashboard Preview</h2>
+<h1 align="center">Student Performance Analysis Dashboard</h1>
 
-<p align="center">
-  <img src="Student-Performance-Analysis-Dashboard-Screenshot.png" alt="Student Performance Analysis Dashboard Screenshot" width="900">
-</p>
+![Dashboard Screenshot](Student%20Performance%20Analysis%20Dashboard%20Screenshot.png)
